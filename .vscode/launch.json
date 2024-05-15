@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        
+        {
+            "name": "Dart",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin/main.dart"
+        },
+        
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter (Pixel 8 Pro Flutter Tutorial)",
+            "request": "launch",
+            "type": "dart"
+        }
+        
+    ]
+}
