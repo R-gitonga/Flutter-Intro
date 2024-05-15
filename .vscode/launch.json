@@ -18,6 +18,11 @@
             "name": "Flutter (Pixel 8 Pro Flutter Tutorial)",
             "request": "launch",
             "type": "dart"
+        },
+        {
+            "name": "Flutter (pixel 3a API 34)",
+            "request": "launch",
+            "type": "dart"
         }
         
     ]
